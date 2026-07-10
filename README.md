@@ -3,7 +3,7 @@
 這裡記錄我跟著[教材](https://hackmd.io/@sa072686/cp/%2F%40sa072686%2FBkTJ0imPB)學習 C++ 競賽程式設計的解題紀錄
 
 <details>
-<summary>## 學習進度</summary>
+<summary>學習進度</summary>
 
 - [ ] **初章：C++ 語法基礎**
     - [ ] 第一節：命令的接收與成果回報
