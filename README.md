@@ -11,5 +11,4 @@
 
 | 章節 | 題目來源 | 題號/名稱 | 程式碼 | 狀態  | 備註 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ch1-1 | Kattis | [Hello World!](https://open.kattis.com/problems/hello) | [Link](./Chapter01/ZeroJudge_a001.cpp) | ✅ AC | 忘記分號 |
-
+| Ch1-1 | Kattis | [Hello World!](https://open.kattis.com/problems/hello) | [Link](./Ch1/01/Kattis_HelloWorld!.cpp) | ✅ AC | 忘記分號 |
