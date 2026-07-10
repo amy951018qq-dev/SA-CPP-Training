@@ -46,7 +46,7 @@
   </details>
 
 ## 解題清單
-https://docs.google.com/spreadsheets/d/1N3iR2FfjBdL_usen0_aGZRkvzKzwDv_Ec2YaIP5kXuc/edit?usp=sharing
+[個人CSV](https://docs.google.com/spreadsheets/d/1N3iR2FfjBdL_usen0_aGZRkvzKzwDv_Ec2YaIP5kXuc/edit?usp=sharing)
 | 章節 | 題目 | 程式碼 | 狀態  | 備註 | 日期 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Ch1-1 | [Kattis hello](https://open.kattis.com/problems/hello) | [Link](./Ch1/01/Kattis_HelloWorld!.cpp) | ✅ AC | 忘記分號 | 7/10 |
