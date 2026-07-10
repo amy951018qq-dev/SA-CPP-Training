@@ -49,6 +49,6 @@
 | 章節 | 題目 | 程式碼 | 狀態  | 備註 | 日期 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Ch1-1 | [Kattis hello](https://open.kattis.com/problems/hello) | [Link](./Ch1/01/Kattis_HelloWorld!.cpp) | ✅ AC | 忘記分號 | 7/10 |
-| Ch1-1 | [TOJ 519](https://toj.tfcis.org/oj/pro/519/) | [Link](./Ch1/01/Kattis_HelloWorld!.cpp) | ✅ AC | | |
-| Ch1-1 | [TOJ 520](https://toj.tfcis.org/oj/pro/520/) | [Link](./Ch1/01/Kattis_HelloWorld!.cpp) | ✅ AC | | |
+| Ch1-1 | [TOJ 519](https://toj.tfcis.org/oj/pro/519/) | [Link](./Ch1/01/TOJ_519.cpp) | ✅ AC | | |
+| Ch1-1 | [TOJ 520](https://toj.tfcis.org/oj/pro/520/) | [Link](./Ch1/01/TOJ_520.cpp) | ✅ AC | | |
 
