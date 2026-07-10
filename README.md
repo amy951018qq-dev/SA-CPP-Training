@@ -1,9 +1,6 @@
-# SA-CPP-Training
-SA 流 C++ 競程修練心法解題紀錄
-
 # SA 流 C++ 競程修練心法 - 學習與解題筆記
 
-這裡記錄我跟著教材學習 C++ 競賽程式設計的程式碼與解題報告。
+這裡記錄我跟著教材學習 C++ 競賽程式設計的解題紀錄
 
 ## 學習進度
 - [x] 第一章：基礎 C++ 與競程優化
@@ -12,8 +9,8 @@ SA 流 C++ 競程修練心法解題紀錄
 
 ## 解題清單
 
-| 章節 | 題目來源 | 題號/名稱 | 程式碼 | 解題要點 / 備忘錄 | 狀態 |
+| 章節 | 題目來源 | 題號/名稱 | 程式碼 | 狀態  | 備註 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ch1 | ZeroJudge | [a001. 哈囉](連結) | [Link](./Chapter01/ZeroJudge_a001.cpp) | 練習基本快讀 `cin.tie` | ✅ AC |
+| Ch1-1 | Kattis | [Hello World!](https://open.kattis.com/problems/hello) | [Link](./Chapter01/ZeroJudge_a001.cpp) | ✅ AC`cin.tie` |  |
 | Ch2 | Codeforces | [4A. Watermelon](連結) | [Link](./Chapter02/CF_4A.cpp) | 注意 N=2 的特判邊界值 | ❌ WA |
 | Ch2 | ZeroJudge | [b294. 經濟大恐慌](連結) | [Link](./Chapter02/ZJ_b294.cpp) | 簡單的迴圈加權求和 | ✅ AC |
